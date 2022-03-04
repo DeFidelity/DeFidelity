@@ -27,6 +27,10 @@
 - defidelity6@gmail.com
 - defidelity1@twitter.com
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeFidelity&show_icons=true&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeFidelity&theme=ocean_dark)
+
+
 <!---
 DeFidelity/DeFidelity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
