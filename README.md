@@ -4,7 +4,7 @@
 
 # About me
 <h3 align="center">A pragmatic full-stack developer</h3>
-- 👋 Hi, I’m Amusat Haki Adeyemi, I'm a software engineer that interested in bringing software inovations to life and solving existing problems in softwares [ open to work ].
+- 👋 Hi, I'm a software engineer with a year of industrial experience in freelancing experience, I'm passionate about building software products, working on business aims and maintaining softwares [ open to opportunities ].
 
 - 💬 Ask me about **Python, Django, Vue JS, HTMX**
 
@@ -23,6 +23,7 @@
 - Vue JS
 - Alpine JS
 - Tailwind CSS
+- Bootstrap
 - Can also pick up a new language or framework in weeks time.
 
 
