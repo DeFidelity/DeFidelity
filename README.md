@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=defidelity&label=Profile%20views&color=0e75b6&style=flat&theme=ocean_dark" alt="defidelity" /> </p>
-
-
 
 # About me
 <h3 align="center">A pragmatic full-stack developer</h3>
