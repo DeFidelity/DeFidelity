@@ -1,7 +1,7 @@
 
 # About me
 <h3 align="center">A pragmatic full-stack developer</h3>
-- 👋 Hi, I'm a software engineer with a year of industrial freelancing experience, I'm passionate about building software products, working on business aims and maintaining softwares, I basically use software engineering skill to bring and resurect business ideas to life [ I'm currently open to opportunities ].
+- 👋 Hi, I'm a software engineer with a year of industrial experience, I'm passionate about building software products that make business goals and, working on business aims and maintaining softwares, I basically use software engineering skill to bring and resurect business ideas to life [ I'm currently open to opportunities ].
 
 - 💬 Ask me about **Python, Django, Vue JS, HTMX**
 
