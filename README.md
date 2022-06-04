@@ -16,6 +16,7 @@
 - DRF
 - HTMX
 - Scrapy
+- Selenium / BS4
 - Vue JS
 - Alpine JS
 - Tailwind CSS
