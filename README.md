@@ -31,7 +31,7 @@
  ✨ Google ✨ Command Line ✨ Linux [ubuntu] (with WSL2) ✨ Git & Github ✨ Docker & Docker-Compose ✨ Heroku ✨ AWS 
  
 ### Database
-  ✨ Postgres sql ✨ SQLite 
+  ✨ Postgres sql ✨ SQLite ✨ Redis
   
 ### Concepts
    ✨ Unit testing ✨ Documenting ✨ SSR (with spa tools) ✨ REST APIs ✨ TDD ✨ Factory-boy and DB fixtures ✨ Agile  ✨ DB Design
