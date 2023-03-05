@@ -2,13 +2,13 @@
 # About me
 <hr>
 <h3 align="center">A pragmatic self taught Software Engineer</h3>
-- 👋 Hi, I'm a goal driven and success mogering engineer with a year of freelancing experience where I got to work on several small-medium level software products to help achive some goals, I'm always learning and trying to get better at everything my skills require. I also conduct and make good conversations which boosts my listening and consulting skills [ I'm currently open to opportunities here: defidelity6@gmail.com].
+- 👋 Hi, I'm a goal driven and motivated engineer with two years of experience where I got to work on several small-medium level software products to help achive some goals, I'm always learning and getting the best out of my stack to satisfy the present needs. I have strong communication skills and enjoy engaging in productive discussions [ I'm currently open to opportunities here: defidelity6@gmail.com].
 
 - 💬 You can ask me about Web and Automations
 
 ### Interest and goal
 
-- As a growth monger, I always look forward to getting better at my skills while working on great, world-class and impactful projects, I'm looking forward to being part of a team or working solo in a place where my skills are valued and appreciated and getting to have a hand in making some plans and business goals reality, elevating businesses, making life easier and also fun for people and asserting positivities while facing and overcomig obvious and expected challenges. Think that's all I need to unleash the beast in me.
+- As a growth-oriented individual, I always look forward to spending my skills into the production of great products and impactful projects, I'm looking forward to being part of a team or working solo in a place where my skills are valued and appreciated and getting to have a hand in making some plans and business goals reality, elevating businesses, through minimal, self maintained and well secured products,while asserting positivities when facing or overcomig obvious and expected challenges. Think that's all I need to unleash the beast in me.
 
 <hr>
 
@@ -59,9 +59,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/de_fidelity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="de_fidelity" height="30" width="40" /></a>
+<a href="https://dev.to/defidelity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="de_fidelity" height="30" width="40" /></a>
 <a href="https://twitter.com/defidelity1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="defidelity1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amusat haki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amusat haki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amusat-haki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amusat haki" height="30" width="40" /></a>
 <a href="https://m.facebook.com/hamzatabdulhaki.hardayyemie?ref=bookmarks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="de fidelity diadem" height="30" width="40" /></a>
 </p>
 
