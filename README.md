@@ -1,10 +1,11 @@
 
 # About me
 <hr>
-<h3 align="center">A pragmatic self taught Software Engineer</h3>
-- 👋 Hi, I'm a goal driven and motivated engineer with two years of experience where I got to work on several small-medium level software products to help achive some goals, I'm always learning and getting the best out of my stack to satisfy the present needs. I have strong communication skills and enjoy engaging in productive discussions [ I'm currently open to opportunities here: defidelity6@gmail.com].
+<h3 align="center">Pragmatic Software Product Developer</h3>
+- 👋 Hi, I'm a goal driven and product engineer with two years of experience  on the go, during the course of this period, I've got to work on several small to medium level software products to help achive some brands goals and bring life to inventors ideas, I'm always learning and I've not seize to get the best out of my stack till it satisfies the needs of the project I'm working on. 
+- I have strong communication skills and enjoy engaging in productive discussions [ I'm currently open to opportunities here: defidelity6@gmail.com].
 
-- 💬 You can ask me about Web and Automations
+- 💬 We can discuss your ideas as I'm open to consultations here: defidelity6@gmail.com
 
 ### Interest and goal
 
