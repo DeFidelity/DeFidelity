@@ -2,14 +2,20 @@
 # About me
 <hr>
 <h3 align="center">Pragmatic Software Product Developer</h3>
-- 👋 Hi, I'm a goal driven and product engineer with two years of experience  on the go, during the course of this period, I've got to work on several small to medium level software products to help achive some brands goals and bring life to inventors ideas, I'm always learning and I've not seize to get the best out of my stack till it satisfies the needs of the project I'm working on. 
-- I have strong communication skills and enjoy engaging in productive discussions [ I'm currently open to opportunities here: defidelity6@gmail.com].
+- As a goal Software Product Development Engineer, with my two years of experience, 
+ I've got to work on several small to medium sized software products to help achive development goals and bring life to inventors ideas, 
+ As a developer, I neither seized to learn nor do I stop to get the best out of my stack till it satisfies the needs of the project I'm working on. 
+ I have strong communication skills and enjoy engaging in productive discussions.
 
-- 💬 We can discuss your ideas as I'm open to consultations here: defidelity6@gmail.com
+- 💬 We can discuss your project and ideas, and I'm also open for consultations here: defidelity6@gmail.com
 
 ### Interest and goal
 
-- As a growth-oriented individual, I always look forward to spending my skills into the production of great products and impactful projects, I'm looking forward to being part of a team or working solo in a place where my skills are valued and appreciated and getting to have a hand in making some plans and business goals reality, elevating businesses, through minimal, self maintained and well secured products,while asserting positivities when facing or overcomig obvious and expected challenges. Think that's all I need to unleash the beast in me.
+- As a growth-oriented individual, I always look forward to spending my skills in the production of great products and impactful projects, 
+I'm looking forward to working as part of a team or working solo on a project where my skills are valued and appreciated and 
+getting to have a hand in making some plans and business goals reality, 
+elevating businesses, through minimal, self maintained and well secured products, 
+while asserting positivities when facing or overcomig unexpected and expected challenges. 
 
 <hr>
 
@@ -22,35 +28,10 @@
 <hr>
 - Tools, Frameworks and concepts [ordered by strength].
 
-### Programming Languages
- ✨ Python ✨Javascript ✨ C++
-
-### Frameworks
- ✨ Django ✨ Pytest ✨ DRF  ✨ Scrapy ✨ Vue JS ✨ Selenium  ✨ BS4
- 
-### Tools
- ✨ Google ✨ Command Line ✨ Linux [ubuntu] (with WSL2) ✨ Git & Github ✨ Docker & Docker-Compose ✨ Heroku ✨ AWS 
- 
-### Database
-  ✨ Postgres sql ✨ SQLite ✨ Redis
-  
-### Concepts
-   ✨ Unit testing ✨ Documenting ✨ SSR (with spa tools) ✨ REST APIs ✨ TDD ✨ Factory-boy and DB fixtures ✨ Agile  ✨ DB Design
-  
-### FE Tools & Framework
-  ✨ Tailwind CSS ✨ HTMX ✨ Alpine JS ✨ Bootstrap CSS ✨ Vue (standalone script)
-  
-### Strength
- ✨ Backend Development ✨ Software engineering ✨ Fullstack Development
- 
-### Language
-- ✨ English (Fluent) ✨ Arabic (Elementary Proficiency)
-
 ### Proficiency
- At high-level intermediate, there's ease in picking up a new language, framework, concept etc that I've not work with before and getting productive at it in few days time.
+- Profficient in selecting the best of stack for your product, which does not just base on ease that it comes with, but with inclusion of Security level, Scalability and Cost effectiveness
  
 <hr>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defidelity&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="defidelity" /></p>
