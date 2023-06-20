@@ -34,10 +34,6 @@ while asserting positivities when facing or overcomig unexpected and expected ch
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defidelity&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="defidelity" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defidelity&show_icons=true&locale=en&theme=ocean_dark" alt="defidelity" /></p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
