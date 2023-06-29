@@ -2,7 +2,7 @@
 # About me
 <hr>
 <h3 align="center">Pragmatic Software Product Developer</h3>
-- As a goal Software Product Development Engineer, with my two years of experience, 
+- As a goal driven Software Product Development Engineer, with my two years of experience, 
  I've got to work on several small to medium sized software products to help achive development goals and bring life to inventors ideas, 
  As a developer, I neither seized to learn nor do I stop to get the best out of my stack till it satisfies the needs of the project I'm working on. 
  I have strong communication skills and enjoy engaging in productive discussions.
