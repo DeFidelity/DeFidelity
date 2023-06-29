@@ -2,8 +2,8 @@
 # About me
 <hr>
 <h3 align="center">Pragmatic Software Product Developer</h3>
-- As a goal driven Software Product Development Engineer, with my two years of experience, 
- I've got to work on several small to medium sized software products to help achive development goals and bring life to inventors ideas, 
+- As a goal-driven Software Product Development Engineer, with industrial experience, 
+ I've got to work on several small to medium-sized software products to help achieve development goals and bring life to inventors' ideas, 
  As a developer, I neither seized to learn nor do I stop to get the best out of my stack till it satisfies the needs of the project I'm working on. 
  I have strong communication skills and enjoy engaging in productive discussions.
 
@@ -13,9 +13,9 @@
 
 - As a growth-oriented individual, I always look forward to spending my skills in the production of great products and impactful projects, 
 I'm looking forward to working as part of a team or working solo on a project where my skills are valued and appreciated and 
-getting to have a hand in making some plans and business goals reality, 
-elevating businesses, through minimal, self maintained and well secured products, 
-while asserting positivities when facing or overcomig unexpected and expected challenges. 
+getting to have a hand in making some plans and business goals a reality, 
+elevating businesses, through minimal, self-maintained and well-secured products, 
+while asserting positivities when facing or overcoming unexpected and expected challenges. 
 
 <hr>
 
@@ -29,7 +29,7 @@ while asserting positivities when facing or overcomig unexpected and expected ch
 - Tools, Frameworks and concepts [ordered by strength].
 
 ### Proficiency
-- Profficient in selecting the best of stack for your product, which does not just base on ease that it comes with, but with inclusion of Security level, Scalability and Cost effectiveness
+- Proficient in selecting the best of the stack for your product, which does not just base on the ease that it comes with, but with the inclusion of Security level, Scalability and cost-effectiveness
  
 <hr>
 <!--
